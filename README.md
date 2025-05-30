@@ -40,4 +40,4 @@ Her dosya, doğrudan eğitim içeriklerine dayalı olarak hazırlanmış olup, t
 ------------------------------------------------------
 
 ✍️ Hazırlayan: Yunus Emre Dunay  
-🔗 [yunusemredunay.com](https://yunusemredunay.com)
+🔗 [yunusemredunay.com](https://yunusemredunay.com/embedded.html)
